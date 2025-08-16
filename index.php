@@ -15,6 +15,7 @@
   <meta name="og:type" content="product" />
   <meta name="og:description" content="WENGTOTO hadir sebagai BO bandar toto slot 4d terpercaya dengan link situs togel online resmi nikmati bocoran angka 4d dan 3d anti zonk peluang menang besar setiap hari hanya di platform togel pilihan para pemain profesional." />
   <meta name="og:image" content="https://imgsaya2.io/images/2025/08/16/wengtoto.md.jpg" />
+  <meta name="google-site-verification" content="lgEGdUkZL7lwREX1gj8Wdy51_PmMGg-DcOx6_034cf0" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://imgsaya2.io/images/2025/07/28/icon-wengtoto.png" />
   <link rel="canonical" href="https://virtual.itec.edu.sv/" />
